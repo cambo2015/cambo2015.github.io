@@ -1,6 +1,6 @@
 
 # About
-A page dedicated to all those interested in learning hard concepts in the easiest way possible, free of charge. This page was created for personal benifit and for all those interested. This is a journal of all the things that I have studied and am currently studying. The lightbulb aspects the I get when studying will also be logged is this site.
+A page dedicated to all those interested in learning hard concepts in the easiest way possible, free of charge. This page was created for personal benifit and for all those interested. This is a journal of all the things that I have studied and am currently studying. The lightbulb aspects that I get when studying will also be logged is this site.
 
 # Goal
 The goal in making this page is to explain technical concepts in the easiest way possible, which is of course dificult, but this is the goal. It is created for game engineers and developers and engineering in general.
