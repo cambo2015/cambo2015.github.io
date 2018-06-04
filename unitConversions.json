@@ -1,0 +1,8 @@
+{
+   
+        //"metersToFeet" : [{"meters": 1},[{"feet": 3.28084} ]  ] 
+    "name":"John", 
+    "age":30, 
+    "city":"New York"
+    
+}
