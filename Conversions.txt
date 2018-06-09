@@ -1,9 +1,22 @@
 //C# code
 using System;
 
-class Convert
+public class Proportions
 {
-	public Convert(num1,denom1,denom2){
+	///<summary>
+	///Finds the missing proportion when to ratios equal eachother
+	///Algebra:cross multiply and isolate x by itself by dividing by denom1 (basic algebra rules)
+	//Time Complexity O(n)
+	///<summary>
+	public Convert(num1,denom1,denom2)
+	{
 		return (num1 * denom2)/denom1;
 	}
+	//Math
+	//1/5 = x/20
+	//1*20 = 20
+	//5*x = 5x
+	//5x = 20
+	//20/5 = 4
+	
 }
