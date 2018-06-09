@@ -1,0 +1,9 @@
+//C# code
+using System;
+
+class Convert
+{
+	public Convert(num1,denom1,denom2){
+		return (num1 * denom2)/denom1;
+	}
+}
